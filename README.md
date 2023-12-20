@@ -18,3 +18,8 @@ Todo List is a simple task management application.
 Node.js
 npm
 PostgreSQL
+
+
+
+![image](https://github.com/ozgeerkskn/ToDo-List/assets/105421946/e1b3f032-fb2d-4fb1-9002-53efd8c404e1)
+
